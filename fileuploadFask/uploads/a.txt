@@ -1,0 +1,14 @@
+
+1. home page - done(http://127.0.0.1:5000/home?client=anmol)
+2. post JSON request (http://127.0.0.1:5000/json)
+({
+   "buisness":"XYZ",
+   "banking":"Credit Uniion",
+   "name":{"Fanme":"Anmol",
+          "lname":"Rajput"}
+})
+3. response for particular request
+4. upload file
+5. buisness details (http://127.0.0.1:5000/business/businessid?businessid=abc12)
+6. Elastic search script.
+
